@@ -118,3 +118,16 @@ Possible enhancements include:
 ## Acknowledgments
 
 This project was inspired by the **Codecademy Coded Correspondence** project and expanded with additional functionality, code organization improvements, and support for multiple Vigenère cipher variants.
+
+
+## What I Learned
+
+While building this project, I gained hands-on experience with:
+
+- Designing reusable Python functions
+- Refactoring duplicate code into cleaner implementations
+- Organizing code into logical sections
+- Using modular arithmetic for encryption algorithms
+- Working with ASCII values using `ord()` and `chr()`
+- Implementing both Caesar and Vigenère ciphers
+- Applying Python best practices to improve readability and maintainability
